@@ -9,8 +9,8 @@ jinja2=2.7.3=py27_1
 libpng=1.6.17=0
 libsodium=0.4.5=0
 markupsafe=0.23=py27_0
-matplotlib=1.4.3=np110py27_3
-numpy=1.10.1=py27_0
+matplotlib=1.4.3=np19py27_3
+numpy=1.9.1=py27_0
 openssl=1.0.2d=0
 pandas=0.15.1=np19py27_0
 pip=1.5.6=py27_0
